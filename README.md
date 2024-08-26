@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @DoxrGitHub
 - 👀 I’m interested in researching ligma!
 
+Some of my old projects that I haven't ported to GitHub are on my [Replit](https://replit.com/@doxr). Good luck finding them.
+
 Public Products of Doxr Enterprises within GitHub as of Aug 26, 2024 (in no particular order):
 
 > Please keep in mind that I'm not a sigma...
