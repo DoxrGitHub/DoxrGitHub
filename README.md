@@ -3,6 +3,13 @@
 
 Some of my old projects that I haven't ported to GitHub are on my [Replit](https://replit.com/@doxr). Good luck finding them.
 
+Things that I'm working on right now:
+
+> I am not commited to a lot of them so don't be suprised if I list something here just for it to be left alone
+
+1. Watchium Proxying
+2. GhostIDE project (full fledged IDE that uses v86 and Filer for an offline-mode IDE that still has a server, but none of it actually exists outside of your browser hence the Ghost)
+
 Public Products of Doxr Enterprises within GitHub as of Aug 26, 2024 (in no particular order):
 
 > Please keep in mind that I'm not a sigma...
