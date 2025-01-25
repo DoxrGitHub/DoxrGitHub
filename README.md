@@ -1,50 +1,33 @@
-- 👋 Hi, I’m @DoxrGitHub
-- 👀 I’m interested in researching ligma!
+- 👋 Hi, I’m @**DoxrGitHub** (I did not know what doxxing was when I created this stupid username)
+- 👀 I’m interested in researching **ligma**!
+- Favorite Language: **JavaScript** (I normally use the NodeJS runtime for projects)
+- Very interested in **cybersecurity**
 
-Some of my old projects that I haven't ported to GitHub are on my [Replit](https://replit.com/@doxr). Good luck finding them.
+Some of my old projects that I haven't ported to GitHub are on my [Replit](https://replit.com/@doxr). They're extremely old, and therefore are essentially useless.
 
-Things that I'm working on right now:
+I'm currently trying to remake my portfolio. Here are a couple of things to check out if you're interested:
 
-> I am not commited to a lot of them so don't be suprised if I list something here just for it to be left alone
+> [Secordis](https://github.com/secordis/secordis)
 
-1. Watchium Proxying
-2. GhostIDE project (full fledged IDE that uses v86 and Filer for an offline-mode IDE that still has a server, but none of it actually exists outside of your browser hence the Ghost)
+An abandoned (at least, for now) project to create a new, open source blocking system; one made for low end school chromebooks. I stopped development as I didn't really get enough time, and I'm willing to pick up the project again. The current state of the extension is "functional and usable," but not exactly something you'd be able to set up yet.
 
-Public Products of Doxr Enterprises within GitHub as of Aug 26, 2024 (in no particular order):
 
-> Please keep in mind that I'm not a sigma...
+> [Bromine35 Organization](https://github.com/Bromine35)
 
-- [SpeechRN](https://github.com/DoxrGitHub/SpeechRN) (skidded)
-> webrtc calling but modded
-- [TalkRN](https://github.com/DoxrGitHub/TalkRN) (not skidded)
-> really good socket.io chatapp
-- [FreeDNS Alt Creator](https://github.com/DoxrGitHub/FreeDNS-Alt-Creator)
-> spam create alts...? handles email verification automatically
-- [Conjure](https://github.com/DoxrGitHub/conjure) (old, use Gamium which will come out soon)
-> games site, pretty bad compared to *GAMIUM*
-- [Watchium](https://github.com/DoxrGitHub/watchium)
-> pirated movies client that you don't get in trouble for hosting :D zero ads zero ligma and optional proxying
-- [Simple-Bare](https://github.com/DoxrGitHub/simple-bare)
-> sets up a bare server designated for ultraviolet 2.0 (will be used with watchium)
-- [Bloxr](https://github.com/DoxrGitHub/bloxr)
-> my blog
-- [Easy Github Auth](https://github.com/DoxrGitHub/Easy-GitHub-Auth)
-> easily setup github auth
-- [doxrform](https://github.com/DoxrGitHub/doxrform)
-> extremely simple, somewhat useless form system
-- [nodeDB](https://github.com/DoxrGitHub/nodeDB)/[clientDB](https://github.com/DoxrGitHub/clientDB)
-> easy to use K/V database, for the nodejs version json is used
-- [dev-prx](https://github.com/DoxrGitHub/dev-prx)
-> minimal proxy as a starting base for skids-
-- ["free" image hosting](https://github.com/DoxrGitHub/free-image-upload)
-> yeah its just discord file uploading dont bother
-- [nodejs account system](https://github.com/DoxrGitHub/username-password-auth)
-> literally the name
-- [Khan Destroyer Sourced](https://github.com/DoxrGitHub/Khan-Destroyer-Sourced)
-> some scripts I made based on the original khan destroyer cheats
-- [doxr](https://github.com/DoxrGitHub/doxr)
-> my incomplete portfolio.
-- [Termulator](https://github.com/DoxrGitHub/Termulator)
-> 10 minute zero dependency browser shell so you don't have to make one
-- [EagSetup](https://github.com/DoxrGitHub/eagler-setup) [incomplete]
-> nodejs script to set up eaglercraft
+Old group that a couple of us made from scratch. It has some useful resources, such as private extension dumps. No exploits or breakthroughs though :(
+
+<hr>
+
+Some of my public projects (please note, it's been a while since I've created a new project, so these are old):
+
+> [HS-YT](https://github.com/DoxrGitHub/hs-yt)
+
+A short project of mine, to create a new YouTube client without the lag that low end devices like Chromebooks have to face, while keeping the YouTube streaming speeds.
+
+> [clientDB](https://github.com/DoxrGitHub/clientDB)/[nodeDB](https://github.com/DoxrGitHub/nodeDB)
+
+JSON "database" library; makes it really easy to work with persistent JSON files (or `localStorage` for the client version) for simple KV database usage. Inspired by Replit's KV built in database.
+
+> [TalkRN](https://github.com/DoxrGitHub/TalkRN)
+
+Added this here as an extra. Not because it's a particularly great project, but because I am currently in the process of recreating this 2-3 year old project from the very scratch, and making it better than TalkRN could've ever been. New project is called RN+ and I plan to make it public; it will essentially have the same concept as TalkRN but different, better, more secure project.
