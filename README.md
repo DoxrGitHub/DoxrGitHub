@@ -31,3 +31,7 @@ JSON "database" library; makes it really easy to work with persistent JSON files
 > [TalkRN](https://github.com/DoxrGitHub/TalkRN)
 
 Added this here as an extra. Not because it's a particularly great project, but because I am currently in the process of recreating this 2-3 year old project from the very scratch, and making it better than TalkRN could've ever been. New project is called RN+ and I plan to make it public; it will essentially have the same concept as TalkRN but different, better, more secure project.
+
+<hr>
+
+There is a lot more (public) tomfoolery, but this is a small listing. See [DoxrV2](https://doxr.localghost.org) for links and stuff.
