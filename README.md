@@ -16,9 +16,9 @@ An abandoned (at least, for now) project to create a new, open source blocking s
 
 Old group that a couple of us made from scratch. It has some useful resources, such as private extension dumps. No exploits or breakthroughs though :(
 
-> [DOPE](https://github.com/DoxrGitHub/DOPE)
+> [Doxr's Blog](https://github.com/DoxrGitHub/doxrblogs)
 
-An RSA/assymetric encryption re-implementation from scratch for fun called DOPE (Doxr Open Protocol Encryption), one of my only cryptographic projects. 
+A blog website that I have made. I will probably fill it out later on, as of writing there is only one post.
 
 <hr>
 
@@ -31,6 +31,11 @@ A short project of mine, to create a new YouTube client without the lag that low
 > [clientDB](https://github.com/DoxrGitHub/clientDB)/[nodeDB](https://github.com/DoxrGitHub/nodeDB)
 
 JSON "database" library; makes it really easy to work with persistent JSON files (or `localStorage` for the client version) for simple KV database usage. Inspired by Replit's KV built in database.
+
+> [DOPE](https://github.com/DoxrGitHub/DOPE)
+
+An RSA/assymetric encryption re-implementation from scratch for fun called DOPE (Doxr Open Protocol Encryption), one of my only cryptographic projects. 
+
 <hr>
 
 There is a lot more (public) tomfoolery, but this is a small listing. See [DoxrV2](https://doxr.localghost.org) for links and stuff.
