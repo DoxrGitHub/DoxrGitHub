@@ -18,7 +18,7 @@ Old group that a couple of us made from scratch. It has some useful resources, s
 
 > [Doxr's Blog](https://github.com/DoxrGitHub/doxrblogs)
 
-A blog website that I have made. I will probably fill it out later on, as of writing there is only one post.
+A blog website that I have made. Contains public disclosures for vulnerabilities I have found.
 
 <hr>
 
