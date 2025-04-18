@@ -24,6 +24,10 @@ A blog website that I have made. Contains public disclosures for vulnerabilities
 
 Some of my other public projects:
 
+> [Gus Payment Processor](https://github.com/DoxrGitHub/gus)
+
+A self-hosted payment system for Chrome extensions. Gus gives you full control over monetization, with no fees (you keep 100% of the revenue) and fine-control integration. I made as a way of having more control over how my extensions handle payments.
+
 > [HS-YT](https://github.com/DoxrGitHub/hs-yt)
 
 A short project of mine, to create a new YouTube client without the lag that low end devices like Chromebooks have to face, while keeping the YouTube streaming speeds.
@@ -38,4 +42,4 @@ An RSA/assymetric encryption re-implementation from scratch for fun called DOPE 
 
 <hr>
 
-There is a lot more (public) tomfoolery, but this is a small listing. See [DoxrV2](https://doxr.localghost.org) for links and stuff.
+There is a lot more (public) tomfoolery, but this is a small listing. See [DoxrV2](https://doxr.xyz) (text: https://doxr.xyz/) for links and stuff.
