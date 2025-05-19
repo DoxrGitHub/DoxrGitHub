@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @**DoxrGitHub** (I did not know what doxxing was when I created this stupid username)
 - 👀 I’m interested in researching **ligma**!
-- Favorite Language: **JavaScript** (I normally use the NodeJS runtime for projects)
+- Favorite Language: **JavaScript**/NodeJS
 - Very interested in **cybersecurity**
-
-Some of my old projects that I haven't ported to GitHub are on my [Replit](https://replit.com/@doxr). They're extremely old, and therefore are essentially useless.
 
 I'm currently trying to remake my portfolio. Here are a couple of things to check out if you're interested:
 
@@ -42,4 +40,4 @@ An RSA/assymetric encryption re-implementation from scratch for fun called DOPE 
 
 <hr>
 
-There is a lot more (public) tomfoolery, but this is a small listing. See [DoxrV2](https://doxr.xyz) (text: https://doxr.xyz/) for links and stuff.
+See [DoxrV2](https://doxr.xyz) (text: https://doxr.xyz/) for links and stuff.
